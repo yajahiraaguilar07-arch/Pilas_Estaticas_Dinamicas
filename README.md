@@ -1,4 +1,5 @@
-#Estructura-de-datos-ITSX
+Estructura-de-datos-ITSX
+
 Pilas Estáticas y Dinámicas en Java
 
 Alumna: Yajahira Aguilar
